@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+    
+}
+
+body {
+    background-image: linear-gradient(to right, black, #Ffd700);
+    margin: auto;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    text-shadow: 1px 1px 0px black;
+}
+
+p {
+    color: white;
+    text-shadow: 1px 1px 0px black;
+}
+
+h2 {
+    color: white;
+    text-shadow: 1px 1px 0px black;
+    background-color: rgba(0, 0, 0, 0.137);
+    text-decoration: underline;
+
+}
+
+
